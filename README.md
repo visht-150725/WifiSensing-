@@ -22,10 +22,8 @@ This project is the **first step** toward building a complete Wi-Fi sensing syst
 ---
 
 ## 🖥️ Preview
+<img width="1547" height="880" alt="image" src="https://github.com/user-attachments/assets/8ce65367-f9b3-4183-bd6d-5ec11622cae7" />
 
-<img src="assets/demo.gif" width="900">
-
-> *(Replace with your demo GIF or screenshots.)*
 
 ---
 
