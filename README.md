@@ -115,16 +115,12 @@ Future versions will focus on **CSI (Channel State Information)**, which provide
 ### 🚀 Version 4
 - Machine Learning Motion Detection
 
-### 🚀 Version 5
-- Human Activity Recognition
-
 ---
 
 ## 📷 Example Dashboard
+<img width="1547" height="880" alt="image" src="https://github.com/user-attachments/assets/ca2fbe08-aeaf-43fa-aaea-cb7b28b4255d" />
 
-*(Insert your dashboard screenshot here.)*
 
----
 
 ## 🎯 Why This Project?
 
@@ -133,17 +129,3 @@ Wi-Fi signals carry much more information than just internet traffic.
 Every movement in an environment slightly changes the wireless channel.
 
 This project explores how those signal changes can be visualized and eventually used for **wireless sensing**, **motion detection**, and **activity recognition**.
-
----
-
-## 🤝 Contributions
-
-This project is currently experimental.
-
-Suggestions, ideas, and discussions are always welcome.
-
----
-
-## ⭐ If you found this interesting
-
-Consider giving the repository a ⭐ and following the journey as WiFiSense evolves from a simple RSSI monitor into a complete Wi-Fi sensing research project.
